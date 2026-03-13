@@ -2,6 +2,8 @@
 
 **Bactery Colony Counter** adalah aplikasi web sederhana yang menggunakan **YOLOv26** untuk mendeteksi dan menghitung koloni bakteri pada gambar.  
 
+**demo web: https://bactery-colony-counter-r2dy8xfavkbzzzrdb6etkq.streamlit.app/**
+
 ---
 
 ## Fitur Utama
