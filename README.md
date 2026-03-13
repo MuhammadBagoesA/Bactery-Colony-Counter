@@ -37,7 +37,7 @@
 
 - **Python 3.10+**  
 - **Streamlit** – Membuat antarmuka web interaktif  
-- **Ultralytics YOLOv8** – Deteksi objek koloni bakteri  
+- **Ultralytics YOLOv26** – Deteksi objek koloni bakteri  
 - **OpenCV & NumPy** – Manipulasi gambar dan array  
 - **Pillow (PIL)** – Proses file gambar  
 
