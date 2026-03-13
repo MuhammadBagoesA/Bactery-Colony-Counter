@@ -35,7 +35,7 @@
 
 ## Teknologi yang Digunakan
 
-- **Python 3.10+**  
+- **Python 3.14**  
 - **Streamlit** – Membuat antarmuka web interaktif  
 - **Ultralytics YOLOv26** – Deteksi objek koloni bakteri  
 - **OpenCV & NumPy** – Manipulasi gambar dan array  
